@@ -11,6 +11,10 @@ A RESTful API built with Go and MySQL for managing a bookstore's inventory. This
 - **Modular Design** - Well-organized package structure
 - **Auto-Migration** - Database schema management
 
+## Demo Video
+
+Watch a screen recording demonstration of the API in action: https://github.com/user-attachments/assets/0471f61b-4c66-416d-9325-b8c73369060a
+
 ## 🛠️ Tech Stack
 
 - **Language**: Go (Golang) 1.16
