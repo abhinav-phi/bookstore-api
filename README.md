@@ -13,7 +13,8 @@ A RESTful API built with Go and MySQL for managing a bookstore's inventory. This
 
 ## Demo Video
 
-Watch a screen recording demonstration of the API in action: https://github.com/user-attachments/assets/0471f61b-4c66-416d-9325-b8c73369060a
+Watch a screen recording demonstration of the API in action: 
+> https://github.com/user-attachments/assets/0471f61b-4c66-416d-9325-b8c73369060a
 
 ## 🛠️ Tech Stack
 
@@ -196,9 +197,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Abhinav Phi** - [GitHub](https://github.com/abhinav-phi)
-
-Project Link: [https://github.com/abhinav-phi/bookstore-api](https://github.com/abhinav-phi/bookstore-api)
+**GitHub** - [abhinav-phi](https://github.com/abhinav-phi)
+Project Link: [click here](https://github.com/abhinav-phi/bookstore-api)
 
 ---
 
