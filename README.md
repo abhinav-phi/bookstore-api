@@ -197,8 +197,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**GitHub** - [abhinav-phi](https://github.com/abhinav-phi)
-Project Link: [click here](https://github.com/abhinav-phi/bookstore-api)
+**GitHub** : [abhinav-phi](https://github.com/abhinav-phi)
+
+**Project Link** : [click here](https://github.com/abhinav-phi/bookstore-api)
 
 ---
 
